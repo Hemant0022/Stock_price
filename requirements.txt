@@ -1,0 +1,10 @@
+-> Create a virtual environment in pycharm and install all these dependencies
+Yfinance
+Streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+statsmodels
